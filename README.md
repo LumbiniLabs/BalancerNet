@@ -1,6 +1,9 @@
 # BalancerNet
 Awesome Artifacts on Balancer Pools
 
+## Introduction
+- https://tokenpocket-gm.medium.com/defi-on-tokenpocket-introducing-the-balancer-404d4c428d39
+
 ## DAOs for Uniswap AMM Pools
 - https://medium.com/sunnya97/daoifying-uniswap-automated-market-maker-pools-655a2541c5f8
 
